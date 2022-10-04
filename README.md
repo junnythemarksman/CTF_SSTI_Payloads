@@ -2,7 +2,7 @@
 A small collection of SSTI Payloads from the internet.
 
 # What is SSTI
-<link href='https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection'>Please refer to Hacktricks</link>
+<a href='https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection'>Please refer to Hacktricks</a>
 
 #### Payloads :
 
